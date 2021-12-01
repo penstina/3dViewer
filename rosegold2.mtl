@@ -1,0 +1,46 @@
+# Blender MTL File: 'rosegold.blend'
+# Material Count: 4
+
+newmtl Pen_body_Mat
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.491897 0.281121 0.312509
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Ke /Users/Christina.Hall/Desktop/Downloads/AdobeStock_241783528/pen/Pen_body_glow.png
+
+newmtl pen_Clutch_Mat
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.933098 0.593359 0.474730
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Ke /Users/Christina.Hall/Desktop/Downloads/AdobeStock_241783528/pen/pen_Clutch_glow.png
+
+newmtl pen_nib_Mat
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.580146 0.498831
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Ke /Users/Christina.Hall/Desktop/Downloads/AdobeStock_241783528/pen/pen_nib_glow.png
+
+newmtl pen_tip_Mat
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.729339 0.456043 0.295114
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Ke /Users/Christina.Hall/Desktop/Downloads/AdobeStock_241783528/pen/pen_tip_glow.png
